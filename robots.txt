@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://javrx.github.io/snippets-rg1vh4/sitemap.xml
